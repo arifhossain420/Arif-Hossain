@@ -2,7 +2,7 @@ import requests,bs4,json,os,sys,random,datetime,time,re
 
 try:
 
-	import richexcept ImportError:
+	import richexcept :
 
 	os.system('pip install rich')
 
