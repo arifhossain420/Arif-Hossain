@@ -18,9 +18,9 @@ try:
 
 
 
- rich.console import Console as sol
 
- bs4 import BeautifulSoup as parser
+
+
 
  concurrent.futures import ThreadPoolExecutor as tred
 
