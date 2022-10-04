@@ -206,7 +206,7 @@ def menu(): #Bilo
 
 	elif farhan in ['0','00']:
 
-		os.system("xdg-open)
+		os.system(xdg-open)
 
 		exit()
 
