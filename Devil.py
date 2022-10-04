@@ -16,7 +16,7 @@ try:
 
 		exit('[✓] Internet Eror ,Install Manual (pip install rich)')
 
-from rich.table import Table as me
+ rich.table import Table as me
 
 from rich.console import Console as sol
 
